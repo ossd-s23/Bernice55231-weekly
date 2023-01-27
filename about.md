@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About Me!
 
-#### Bernice Wu [https://github.com/Bernice55231]
+#### [Bernice Wu](https://github.com/Bernice55231)
 
 
 ### More Information
